@@ -2,8 +2,8 @@
 import pandas as pd
 
 # 파일 경로 설정
-Location = 'D:/2_PythonExample'
-File = 'Excel_Example.xlsx'
+Location = "C:\Users\YoungWook Kim\Downloads\Tablet_201205.xlsx"
+File = "Tablet_201205.xlsx"
 
 # 추출 행, 열 선언
 Row = 10
